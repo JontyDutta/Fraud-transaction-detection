@@ -8,7 +8,7 @@ This project aims to analyze and detect fraudulent financial transactions using 
 
 Data Description:-
 
-Total Records: 1,048,575 transactions
+Total Records: 1,048,576 transactions
 Columns: 11 features
 
 * step: Hourly time step of the transaction.
@@ -31,3 +31,8 @@ Columns: 11 features
 
 * [Dataset](https://drive.google.com/file/d/1wJfhrKPmeCh4KindHTNaM2iyU7UY1N5s/view?usp=sharing)
   
+# Summary
+
+* The primary goal was to identify the patterns and behaviors that differentiate fraudulent activities from legitimate ones.
+* To deepen the understanding, machine learning techniques were applied to identify the most influential features contributing to fraud prediction.
+* The project proposed a series of infrastructure-level fraud prevention strategies, including real-time fraud detection, behavioral anomaly tracking, strict balance simulations, and enhanced user authentication for risky transaction types.
